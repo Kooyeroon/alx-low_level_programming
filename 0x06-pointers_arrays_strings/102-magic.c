@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - main function with void
+ *
+ * Return: 0
+ */
+
 int main(void)
 {
 	int n;
