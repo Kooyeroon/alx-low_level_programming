@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp https://github.com/Kooyeroon/alx-low_level_programming/raw/master/0x18-dynamic_libraries/libgiga.so
-export LD_PRELOAD = /tmp/libgiga.so
+wget -P /tmp -q "https://github.com/Kooyeroon/alx-low_level_programming/raw/master/0x18-dynamic_libraries/libmmw.so"
+export LD_PRELOAD="/tmp/libmmw.so"
